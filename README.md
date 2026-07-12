@@ -15,4 +15,18 @@ The analysis is based on a synthetic dataset retrieved from [Kaggle](https://www
 * [Portofolio](https://docs.google.com/presentation/d/1sAX1JuM4UKZi5KS_3lxbuKQEZ6olpsXQKPhCd1d1WZw/edit?usp=sharing)
 * [Raw pbix file](https://github.com/gangsarfadhilm/Tugas_Portofolio/blob/main/Mental_health_analysis.pbix)
 
+## The Dashboard Structure
+
+The dashboard consists of 4 different pages:
+
+* Overview: KPI of screen duration & daily notofication to risk and wellbeing score
+* Trendline average daily screen hours by age
+* User Segmentation who use daily screen times limiter
+* Participant distribution by occupation and most used platform
+
+* <p align="center">
+  <img src="./Aset/Dashboard Visualization.jpg">
+</p>
+
+
 
